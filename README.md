@@ -8,4 +8,6 @@
 
 ## Report Overview 
 
-Transport Scotland is preparing next year’s budget and seek insights to guide funding allocations. This repository contains dataset, analysis, and recommendations to support evidence-based decision-making.
+As part of Transport Scotland's budget planning for the imcoming year, the organisation seeks insights into Scotland's road network to identify congestion hotspots, road deterioration, and guide funding allocation priorities for Transport Scotland. 
+This repository contains dataset, analysis,findings with insights into areas requiring urgent funding for congestion relief, road repairs, and infrastructure upgrades, as well as recommendations to support evidence-based decision-making.
+
